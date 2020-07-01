@@ -3,4 +3,4 @@ polkadot-deployer.benchmark*.json
 polkadot-deployer.benchmark*.gnuplot
 *.png
 terraform/**/.terraform
-config/create.remote.stacktical.json
+config/create.*.stacktical.json
